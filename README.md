@@ -244,14 +244,18 @@ public class strassen {
 
 ## 4.  코드 결과
 
-#### 입력
+#### 입력                                      출력
 
-![입력](https://user-images.githubusercontent.com/81538527/116179057-9c376e00-a751-11eb-8035-0676924abcae.png)
+![입력](https://user-images.githubusercontent.com/81538527/116179057-9c376e00-a751-11eb-8035-0676924abcae.png)   
+
+![출력](https://user-images.githubusercontent.com/81538527/116179193-d9036500-a751-11eb-9f02-766e5cc1dbd3.png)
+
+
 
 
 #### 출력
 
-![출력]()
+![출력](https://user-images.githubusercontent.com/81538527/116179193-d9036500-a751-11eb-9f02-766e5cc1dbd3.png)
 
 
 ---
