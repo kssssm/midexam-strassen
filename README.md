@@ -246,11 +246,12 @@ public class strassen {
 
 #### 입력
 
+![입력](https://user-images.githubusercontent.com/81538527/116179057-9c376e00-a751-11eb-8035-0676924abcae.png)
 
 
 #### 출력
 
-
+![출력]()
 
 
 ---
