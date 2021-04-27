@@ -244,11 +244,11 @@ public class strassen {
 
 ## 4.  코드 결과
 
-#### 입력                                      출력
+#### 입력                                      
 
 ![입력](https://user-images.githubusercontent.com/81538527/116179057-9c376e00-a751-11eb-8035-0676924abcae.png)   
 
-![출력](https://user-images.githubusercontent.com/81538527/116179193-d9036500-a751-11eb-9f02-766e5cc1dbd3.png)
+
 
 
 
@@ -260,12 +260,10 @@ public class strassen {
 
 ---
 
-## 5.  성능 평가
+## 5.  성능 그래프
 
-- n개의 물건 각각의 단위 무게 당 가치를 계산하는 데는 O(n) 시간이 걸린다. : Item내의 cost  계산
-- 물건의 단위 무게 당 가치에 대해서 내림차순으로 정렬하기 위해 O(n^2) 시간이 걸린다. (이중 for문을 이용했기 때문에) : SortItem
-- while 루프의 수행은 n번을 넘지 않으며, 루프 내부의 수행은 O(1) 시간이 걸린다. : FractionalKnapsack내의 while 루프
-- if문의 코드는 각각 O(1) 시간이 걸리고 return도 O(1) 시간이 걸린다. :FractionalKnapsack내의 if문과 return
+### strassen(빨간색 그래프) ->O(n^2.807)
 
-따라서 부분 배낭 그리디 알고리즘의 시간 복잡도는 O(n)+O(n^2)+nxO(1)+O(1) = O(n^2) 이며 이를 그래프로 나타내면 이와 같다.
-![n^2](https://user-images.githubusercontent.com/81538527/114697087-6f01bd80-9d58-11eb-9309-f4ee90e55381.png)
+### 일반적인 행렬곱셈(초록색 그래프)->O(n^3)
+
+![비교](https://user-images.githubusercontent.com/81538527/116179765-dce3b700-a752-11eb-99ff-12fe6b407571.png)
