@@ -1,5 +1,5 @@
  					
-# strassen
+# strassen algorithm
 
 ------
 
