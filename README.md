@@ -1,5 +1,3 @@
-<img width="112" alt="스크린샷 2021-05-05 오후 3 38 56" src="https://user-images.githubusercontent.com/81538527/117105307-b1974280-adb8-11eb-85d2-119c1822c947.png">
-<img width="412" alt="스크린샷 2021-05-05 오후 3 38 56" src="https://user-images.githubusercontent.com/81538527/117105307-b1974280-adb8-11eb-85d2-119c1822c947.png">
 
  					
 # strassen algorithm
